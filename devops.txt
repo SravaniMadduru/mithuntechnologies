@@ -1,3 +1,4 @@
+editing for stash command
 This is dev branch
 Hello everyone
 connect if you have any doubts
